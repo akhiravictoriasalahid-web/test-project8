@@ -35,7 +35,7 @@ h1 {
 .envelope {
     width: 200px;
     margin: 50px;
-    color: #7ba376;
+    fill: #7ba376;
     animation: float 3s ease-in-out infinite;
 }
 /* CSS TRANSITION */
@@ -52,4 +52,8 @@ button {
 button:hover {
     background: #1b5e20;
     transform: scale(1.1);
+}
+img {
+    width: 200px;
+    margin-top: 30px;
 }
